@@ -11,4 +11,8 @@ Introductory Level to grasp knowledge of web-scrapping, extract, transform, and 
         i. `source .env/Scripts/activate`
     c. Install the required packages:
         i. `pip install -r requirements.txt`
-4. While running jupyter notebooks, we need to change `Kernel` to select the new `py environment`. By default, the system selects the default py environment. Change it from `Select Kernel`.
+4. While running jupyter notebooks, we need to change `Kernel` to select the new `py environment`. By default, the system selects the default py environment. Change it from `Select Kernel`
+
+
+### Data Architecture Diagram (POC)
+[data_flow_diagram](https://github.com/sagarlimbu0/Stock_Alert_AI_Pipeline/blob/main/docs/stock_Alertai_Flow.png)
