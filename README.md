@@ -15,4 +15,4 @@ Introductory Level to grasp knowledge of web-scrapping, extract, transform, and 
 
 
 ### Data Architecture Diagram (POC)
-[data_flow_diagram](https://github.com/sagarlimbu0/Stock_Alert_AI_Pipeline/blob/main/docs/stock_Alertai_Flow.png)
+![data_flow_diagram](https://github.com/sagarlimbu0/Stock_Alert_AI_Pipeline/blob/main/docs/stock_Alertai_Flow.png)
